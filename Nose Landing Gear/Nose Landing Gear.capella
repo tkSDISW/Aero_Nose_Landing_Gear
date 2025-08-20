@@ -3578,8 +3578,6 @@
               sourceElement="#7c529304-0f71-4aa6-abb8-039553a7fa25"/>
         </ownedPhysicalLinks>
         <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-            id="0f74132a-e68f-4b8b-a6e0-08ee022f4326" name="PL 6"/>
-        <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
             id="71d60aed-3891-420e-b7bb-26dd9b5f9ce0" sid="71d60aed-3891-420e-b7bb-26dd9b5f9ce0"
             name="NLG to Runway" linkEnds="#61267105-6aa9-47e4-89cd-080a9070c22b #5d8782bf-7794-4545-b3a8-a1c020feea86"/>
         <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
