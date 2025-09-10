@@ -122,7 +122,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponentPkg" href="Nose%20Landing%20Gear.capella#d70b51ab-c529-42d0-afa8-fc14a9357bbb"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_H-IPd33GEfCoX5-cM9D12g" name="[PAB] NLG No Sensor" repPath="#_H-Cs4n3GEfCoX5-cM9D12g" changeId="1755715595035">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_H-IPd33GEfCoX5-cM9D12g" name="[PAB] NLG No Sensor" repPath="#_H-Cs4n3GEfCoX5-cM9D12g" changeId="1756477060475">
         <eAnnotations xmi:type="description:DAnnotation" uid="_H-Cs4H3GEfCoX5-cM9D12g" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_H-R9cH3GEfCoX5-cM9D12g" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_H-R9cX3GEfCoX5-cM9D12g" key="hide.computed.physical.links.filter" value="true"/>
@@ -9868,7 +9868,7 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@nodeMappings[name='PAB_PhysicalFunction']/@borderedNodeMappings[name='PAB_Pin']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_7pkvQqHTEeuPIIV6rmpZwg" target="d0ad55b7-369c-494b-98c2-a2d924f7dbfa" name="FIP 2" semanticElements="d0ad55b7-369c-494b-98c2-a2d924f7dbfa" width="1" height="1">
+        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_7pkvQqHTEeuPIIV6rmpZwg" name="FIP 2" width="1" height="1">
           <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_7pkvRaHTEeuPIIV6rmpZwg"/>
           <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_7pkvQ6HTEeuPIIV6rmpZwg" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionInputPort.svg">
             <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@nodeMappings[name='PAB_PhysicalFunction']/@borderedNodeMappings[name='PAB_Pin']/@style"/>
@@ -9884,7 +9884,7 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@nodeMappings[name='PAB_PhysicalFunction']/@borderedNodeMappings[name='PAB_Pin']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_7pkvSqHTEeuPIIV6rmpZwg" target="918d0eeb-50b8-4a4f-b1a5-cba42a93ced5" name="FOP 1" semanticElements="918d0eeb-50b8-4a4f-b1a5-cba42a93ced5" width="1" height="1">
+        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_7pkvSqHTEeuPIIV6rmpZwg" name="FOP 1" width="1" height="1">
           <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_7pkvTaHTEeuPIIV6rmpZwg"/>
           <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_7pkvS6HTEeuPIIV6rmpZwg" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionOutputPort.svg">
             <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@nodeMappings[name='PAB_PhysicalFunction']/@borderedNodeMappings[name='PAB_Pin']/@conditionnalStyles.0/@style"/>
@@ -22327,7 +22327,7 @@
       <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_7XdHEJ1KEeuMeeIfCAKMLg" name="Transmit NLG Structural Post">
         <target xmi:type="org.polarsys.capella.core.data.pa:PhysicalFunction" href="Nose%20Landing%20Gear.capella#04381d02-10b5-4816-b56d-5859064b3a06"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.pa:PhysicalFunction" href="Nose%20Landing%20Gear.capella#04381d02-10b5-4816-b56d-5859064b3a06"/>
-        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_zF781p1KEeuMeeIfCAKMLg" target="89e718d8-8827-4b0c-ab7f-7ee756f2c874" name="FOP 3" semanticElements="89e718d8-8827-4b0c-ab7f-7ee756f2c874" width="1" height="1">
+        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_zF781p1KEeuMeeIfCAKMLg" name="FOP 3" width="1" height="1">
           <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_zF782J1KEeuMeeIfCAKMLg"/>
           <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_zF78151KEeuMeeIfCAKMLg" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionOutputPort.svg">
             <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']/@conditionnalStyles.0/@style"/>
@@ -23032,7 +23032,7 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_QDJn5J3sEeuMeeIfCAKMLg" target="22a39638-05f3-4b0f-8fb2-f1c6bddcd4f7" name="FIP 1" semanticElements="22a39638-05f3-4b0f-8fb2-f1c6bddcd4f7" incomingEdges="_QDKO8Z3sEeuMeeIfCAKMLg" width="1" height="1">
+        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_QDJn5J3sEeuMeeIfCAKMLg" name="FIP 1" incomingEdges="_QDKO8Z3sEeuMeeIfCAKMLg" width="1" height="1">
           <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_QDKO8J3sEeuMeeIfCAKMLg"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
@@ -23071,7 +23071,7 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_pH0bsJ3rEeuMeeIfCAKMLg" target="89c3a41f-6f10-40a5-a635-b91b72f9a4f6" name="Support NLG Structural Post " semanticElements="89c3a41f-6f10-40a5-a635-b91b72f9a4f6">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_pH0bsJ3rEeuMeeIfCAKMLg" name="Support NLG Structural Post ">
         <ownedBorderedNodes xmi:type="diagram:DNode" uid="_L1FE853sEeuMeeIfCAKMLg" name="FIP 1" incomingEdges="_L1FE953sEeuMeeIfCAKMLg" width="1" height="1">
           <target xmi:type="org.polarsys.capella.core.data.fa:FunctionInputPort" href="Nose%20Landing%20Gear.capella#3ac42a7f-778b-4e18-b3b4-3d345e9fde9d"/>
           <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionInputPort" href="Nose%20Landing%20Gear.capella#3ac42a7f-778b-4e18-b3b4-3d345e9fde9d"/>
@@ -23090,7 +23090,7 @@
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_QDJn4J3sEeuMeeIfCAKMLg" target="d87e73d3-8992-4a96-a7e2-b90dfb3e5681" name="FOP 2" semanticElements="d87e73d3-8992-4a96-a7e2-b90dfb3e5681" outgoingEdges="_QDKO8Z3sEeuMeeIfCAKMLg" width="1" height="1">
+        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_QDJn4J3sEeuMeeIfCAKMLg" name="FOP 2" outgoingEdges="_QDKO8Z3sEeuMeeIfCAKMLg" width="1" height="1">
           <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_QDJn453sEeuMeeIfCAKMLg"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
@@ -23163,7 +23163,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@edgeMappings[name='PDFB_Exchange']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_QDKO8Z3sEeuMeeIfCAKMLg" target="5fa05471-8021-40e9-ae0f-8ce45ca1bf98" name="Structural" semanticElements="5fa05471-8021-40e9-ae0f-8ce45ca1bf98" sourceNode="_QDJn4J3sEeuMeeIfCAKMLg" targetNode="_QDJn5J3sEeuMeeIfCAKMLg">
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_QDKO8Z3sEeuMeeIfCAKMLg" name="Structural" sourceNode="_QDJn4J3sEeuMeeIfCAKMLg" targetNode="_QDJn5J3sEeuMeeIfCAKMLg">
       <ownedStyle xmi:type="diagram:EdgeStyle" uid="_QDKO8p3sEeuMeeIfCAKMLg" targetArrow="NoDecoration" centered="Both" strokeColor="9,92,46">
         <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@edgeMappings[name='PDFB_Exchange']/@conditionnalStyles.0/@style"/>
         <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_QDKO853sEeuMeeIfCAKMLg" labelColor="9,92,46"/>
@@ -23785,7 +23785,7 @@
             </ownedStyle>
             <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
           </ownedBorderedNodes>
-          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztRZp536EeuMeeIfCAKMLg" target="b3e61092-936a-4325-a060-163f2da834f5" name="FIP 4" semanticElements="b3e61092-936a-4325-a060-163f2da834f5" incomingEdges="_ztRZq536EeuMeeIfCAKMLg" width="1" height="1">
+          <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztRZp536EeuMeeIfCAKMLg" name="FIP 4" incomingEdges="_ztRZq536EeuMeeIfCAKMLg" width="1" height="1">
             <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_ztRZqp36EeuMeeIfCAKMLg"/>
             <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
             <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
@@ -23931,8 +23931,8 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@edgeMappings[name='PDFB_Exchange']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_ztRZoJ36EeuMeeIfCAKMLg" target="211e2f0d-2adc-4982-aeb2-07885ab99ef4" semanticElements="211e2f0d-2adc-4982-aeb2-07885ab99ef4">
-      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztRZo536EeuMeeIfCAKMLg" target="ea9183d1-802c-4e2d-8a61-09d05d5a7aeb" name="FOP 2" semanticElements="ea9183d1-802c-4e2d-8a61-09d05d5a7aeb" outgoingEdges="_ztRZq536EeuMeeIfCAKMLg" width="1" height="1">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_ztRZoJ36EeuMeeIfCAKMLg">
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztRZo536EeuMeeIfCAKMLg" name="FOP 2" outgoingEdges="_ztRZq536EeuMeeIfCAKMLg" width="1" height="1">
         <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_ztRZpp36EeuMeeIfCAKMLg"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
@@ -23951,7 +23951,7 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
       </ownedBorderedNodes>
-      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztTO6p36EeuMeeIfCAKMLg" target="91363339-a19b-4fe5-8e14-697cfde5e204" name="FOP 4" semanticElements="91363339-a19b-4fe5-8e14-697cfde5e204" width="1" height="1">
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztTO6p36EeuMeeIfCAKMLg" name="FOP 4" width="1" height="1">
         <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_ztT14Z36EeuMeeIfCAKMLg"/>
         <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_ztTO6536EeuMeeIfCAKMLg" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionOutputPort.svg">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']/@conditionnalStyles.0/@style"/>
@@ -23966,14 +23966,14 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ztRZq536EeuMeeIfCAKMLg" target="402a6661-9d2a-4430-bf8b-88f5ff3a7f78" name="Extend" semanticElements="402a6661-9d2a-4430-bf8b-88f5ff3a7f78" sourceNode="_ztRZo536EeuMeeIfCAKMLg" targetNode="_ztRZp536EeuMeeIfCAKMLg">
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ztRZq536EeuMeeIfCAKMLg" name="Extend" sourceNode="_ztRZo536EeuMeeIfCAKMLg" targetNode="_ztRZp536EeuMeeIfCAKMLg">
       <ownedStyle xmi:type="diagram:EdgeStyle" uid="_ztRZrJ36EeuMeeIfCAKMLg" targetArrow="NoDecoration" centered="Both" strokeColor="9,92,46">
         <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@edgeMappings[name='PDFB_Exchange']/@conditionnalStyles.0/@style"/>
         <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_ztRZrZ36EeuMeeIfCAKMLg" labelColor="9,92,46"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@edgeMappings[name='PDFB_Exchange']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_ztRZsJ36EeuMeeIfCAKMLg" target="63019880-5284-4f05-84d1-c4a48361d730" semanticElements="63019880-5284-4f05-84d1-c4a48361d730">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_ztRZsJ36EeuMeeIfCAKMLg">
       <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztRZs536EeuMeeIfCAKMLg" name="FOP 1" outgoingEdges="_ztSAtJ36EeuMeeIfCAKMLg" width="1" height="1">
         <target xmi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort" href="Nose%20Landing%20Gear.capella#81d482a8-8760-4622-b763-5b3aea39e4fb"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort" href="Nose%20Landing%20Gear.capella#81d482a8-8760-4622-b763-5b3aea39e4fb"/>
@@ -24004,7 +24004,7 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
       </ownedBorderedNodes>
-      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztT17J36EeuMeeIfCAKMLg" target="ea5d4658-ddbc-4076-a4d8-194d8187b55a" name="FOP 3" semanticElements="ea5d4658-ddbc-4076-a4d8-194d8187b55a" width="1" height="1">
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztT17J36EeuMeeIfCAKMLg" name="FOP 3" width="1" height="1">
         <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_ztT17536EeuMeeIfCAKMLg"/>
         <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_ztT17Z36EeuMeeIfCAKMLg" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionOutputPort.svg">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']/@conditionnalStyles.0/@style"/>
@@ -24028,7 +24028,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@edgeMappings[name='PDFB_Exchange']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_ztSAuZ36EeuMeeIfCAKMLg" target="e2a5c281-a52c-448c-bf96-b4a94fa2a117" semanticElements="e2a5c281-a52c-448c-bf96-b4a94fa2a117">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_ztSAuZ36EeuMeeIfCAKMLg">
       <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztSAvJ36EeuMeeIfCAKMLg" name="FOP 1" outgoingEdges="_ztSnwp36EeuMeeIfCAKMLg" width="1" height="1">
         <target xmi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort" href="Nose%20Landing%20Gear.capella#848d4e6a-9204-4c12-b17a-11d637d40f84"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort" href="Nose%20Landing%20Gear.capella#848d4e6a-9204-4c12-b17a-11d637d40f84"/>
@@ -24041,14 +24041,14 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
       </ownedBorderedNodes>
-      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztT18p36EeuMeeIfCAKMLg" target="3aedfb0c-b7dc-4f2a-8806-8f2ae5ae6170" name="FIP 3" semanticElements="3aedfb0c-b7dc-4f2a-8806-8f2ae5ae6170" width="1" height="1">
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztT18p36EeuMeeIfCAKMLg" name="FIP 3" width="1" height="1">
         <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_ztT19Z36EeuMeeIfCAKMLg"/>
         <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_ztT18536EeuMeeIfCAKMLg" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionInputPort.svg">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
       </ownedBorderedNodes>
-      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztT19p36EeuMeeIfCAKMLg" target="09e12dcb-2a32-4548-83f9-8b06bd164cda" name="FOP 2" semanticElements="09e12dcb-2a32-4548-83f9-8b06bd164cda" width="1" height="1">
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_ztT19p36EeuMeeIfCAKMLg" name="FOP 2" width="1" height="1">
         <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_ztT1-Z36EeuMeeIfCAKMLg"/>
         <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_ztT19536EeuMeeIfCAKMLg" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionOutputPort.svg">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']/@conditionnalStyles.0/@style"/>
@@ -25185,7 +25185,7 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']"/>
       </ownedBorderedNodes>
-      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_efHi8qQmEeuyYOCboyd6Lw" target="7bad75cc-6e22-454a-849c-1b43fc01cbb3" name="FOP 3" semanticElements="7bad75cc-6e22-454a-849c-1b43fc01cbb3" width="1" height="1">
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_efHi8qQmEeuyYOCboyd6Lw" name="FOP 3" width="1" height="1">
         <graphicalFilters xmi:type="diagram:HideLabelFilter" uid="_efHi9aQmEeuyYOCboyd6Lw"/>
         <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_efHi86QmEeuyYOCboyd6Lw" showIcon="false" hideLabelByDefault="true" workspacePath="/org.polarsys.capella.core.sirius.analysis/description/images/FunctionOutputPort.svg">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']/@defaultLayer/@containerMappings[name='PDFB_Function']/@borderedNodeMappings[name='PDFB_Pin']/@conditionnalStyles.0/@style"/>
@@ -28586,7 +28586,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_qFvrtqQqEeuyYOCboyd6Lw" target="3641839f-5b10-4753-bce9-afe96505a46b" name="Selector and Dump Valve" semanticElements="3641839f-5b10-4753-bce9-afe96505a46b 3c887e2a-3ae8-400e-9134-262fc5fccc4f">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_qFvrtqQqEeuyYOCboyd6Lw" name="Selector and Dump Valve">
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
       <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
       <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -38879,7 +38879,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@edgeMappings[name='PAB_FunctionExchange']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" uid="_WXUnIH3oEfCoX5-cM9D12g" name="Groundforce on Airframe" width="2" height="2" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_WXUnIH3oEfCoX5-cM9D12g" name="Groundforce on Airframe (invalid)" width="2" height="2" resizeKind="NSEW">
       <target xmi:type="org.polarsys.capella.core.data.fa:FunctionalChain" href="Nose%20Landing%20Gear.capella#8b856a84-8f76-44d1-88de-cac2fd5d04c9"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionalChain" href="Nose%20Landing%20Gear.capella#8b856a84-8f76-44d1-88de-cac2fd5d04c9"/>
       <ownedStyle xmi:type="diagram:Square" uid="_WXUnIX3oEfCoX5-cM9D12g" borderSize="1" borderSizeComputationExpression="1" width="2" height="2" color="24,114,248">
