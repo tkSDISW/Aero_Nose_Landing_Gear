@@ -2642,6 +2642,14 @@
             <languages>capella:linkedText</languages>
           </ownedSpecification>
         </ownedConstraints>
+        <ownedConstraints xsi:type="org.polarsys.capella.core.data.capellacore:Constraint"
+            id="3dd05e62-3ad9-4b81-a657-c7bdc34290b1" name="">
+          <ownedSpecification xsi:type="org.polarsys.capella.core.data.information.datavalue:OpaqueExpression"
+              id="9707b17d-16db-4e6e-b1d8-45ba59751c2c">
+            <bodies></bodies>
+            <languages>capella:linkedText</languages>
+          </ownedSpecification>
+        </ownedConstraints>
         <ownedTraces xsi:type="org.polarsys.capella.core.data.capellacommon:TransfoLink"
             id="f9f16f35-9ad6-4c38-8ce9-cc8f78012ce3" targetElement="#68ed1c83-6d78-4c20-ad4e-8be00bfd60c9"
             sourceElement="#f86679b4-fb09-479f-aea1-009e6a109067"/>
