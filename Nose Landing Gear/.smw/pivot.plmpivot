@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ASCII"?>
+<plmpivot:PlmProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:plmpivot="http://www.example.org/Plmpivot" semanticIdentifier="Nose Landing Gear" plmIdentifier="xZjlyDcyJ_cL6A" revision="A" name="Nose Landing Gear" reservationStatus="LOCKED" label="038330/A">
+  <options key="uml0Type" value="Capella Library"/>
+  <options key="tcitemId" value="038330"/>
+  <options key="timestamp" value="Q0mlyHGvJ_cL6A"/>
+  <options key="staging.area.path" value="C:\staging\sysml\Nose Landing Gear_038330_A"/>
+  <model semanticIdentifier="f9dad0df-a4cb-4073-a81e-f329162ac879" name="platform:/resource/Nose%20Landing%20Gear/Nose%20Landing%20Gear.aird">
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_NYu7gHwrEeu91bEqYT4XeQ" plmIdentifier="C4plyDcyJ_cL6A" name="_NYu7gHwrEeu91bEqYT4XeQ" hash="6a696a61e4b6436b024b434041e5836afa81ba99" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Functional Chain Description" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="7d8e43a0-922f-4a23-9c4b-69aae1080b7e__NYu7gHwrEeu91bEqYT4XeQ" value="pHilyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__NYu7gHwrEeu91bEqYT4XeQ" value="pDvlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__NYu7gHwrEeu91bEqYT4XeQ" value="dZvlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_zXargH3jEfCoX5-cM9D12g" plmIdentifier="C4nlyDcyJ_cL6A" name="_zXargH3jEfCoX5-cM9D12g" hash="a3897b3f2abca08f0a1b166bfdc6a9377350dc2f" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Functional Chain Description" changeId="1755711738038">
+      <plmOccurrenceIdentifiers key="03e7198f-630b-4d5b-b3a9-9113b5254074__zXargH3jEfCoX5-cM9D12g" value="pnmlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__zXargH3jEfCoX5-cM9D12g" value="pnjlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__zXargH3jEfCoX5-cM9D12g" value="dZglyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_7zyWsH3qEfCoX5-cM9D12g" plmIdentifier="C4rlyDcyJ_cL6A" name="_7zyWsH3qEfCoX5-cM9D12g" hash="a132530557c397897ed8c2e8e754d2f4e2c57d75" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Functional Chain Description" changeId="1755711117006">
+      <plmOccurrenceIdentifiers key="20255ecd-6227-4bd1-9a8f-9258de7ddfed__7zyWsH3qEfCoX5-cM9D12g" value="pDmlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__7zyWsH3qEfCoX5-cM9D12g" value="pDplyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__7zyWsH3qEfCoX5-cM9D12g" value="dVnlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_cK3_MGJtEeqyHY6eiTTk8Q" plmIdentifier="C8tlyDcyJ_cL6A" name="_cK3_MGJtEeqyHY6eiTTk8Q" hash="acbc8e17f9f4b9d4c93c19f1272215510de3223e" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="3f63e635-d46d-4836-93cf-daa5f8a02a4a__cK3_MGJtEeqyHY6eiTTk8Q" value="ojnlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__cK3_MGJtEeqyHY6eiTTk8Q" value="ojklyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__cK3_MGJtEeqyHY6eiTTk8Q" value="dVqlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_iBKzMOb-EeqTFpW1R5XZtg" plmIdentifier="C8rlyDcyJ_cL6A" name="_iBKzMOb-EeqTFpW1R5XZtg" hash="fe4c2eeace3ad82ccdd56b063f117490fa571fa5" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1755691598203">
+      <plmOccurrenceIdentifiers key="3f63e635-d46d-4836-93cf-daa5f8a02a4a__iBKzMOb-EeqTFpW1R5XZtg" value="o$hlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__iBKzMOb-EeqTFpW1R5XZtg" value="o7ulyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__iBKzMOb-EeqTFpW1R5XZtg" value="dtmlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_9-w_8Hu-Eeu91bEqYT4XeQ" plmIdentifier="SAnlyDcyJ_cL6A" name="_9-w_8Hu-Eeu91bEqYT4XeQ" hash="968f9017600f18ec37a52be791125d2796626ff6" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="d70b51ab-c529-42d0-afa8-fc14a9357bbb__9-w_8Hu-Eeu91bEqYT4XeQ" value="osllyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__9-w_8Hu-Eeu91bEqYT4XeQ" value="osilyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__9-w_8Hu-Eeu91bEqYT4XeQ" value="dVhlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_UOcboJbxEeu0M70mF4Su_w" plmIdentifier="SAjlyDcyJ_cL6A" name="_UOcboJbxEeu0M70mF4Su_w" hash="d391939430686795262e26633ea585ebd4139143" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="d70b51ab-c529-42d0-afa8-fc14a9357bbb__UOcboJbxEeu0M70mF4Su_w" value="48mlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__UOcboJbxEeu0M70mF4Su_w" value="48jlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__UOcboJbxEeu0M70mF4Su_w" value="dtslyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_GyrRYJhiEeufA4sIfxjdXw" plmIdentifier="C8hlyDcyJ_cL6A" name="_GyrRYJhiEeufA4sIfxjdXw" hash="be55e60ed53f9fda5b7918acd19de6d67ab8b28d" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1755707092782">
+      <plmOccurrenceIdentifiers key="d70b51ab-c529-42d0-afa8-fc14a9357bbb__GyrRYJhiEeufA4sIfxjdXw" value="5itlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__GyrRYJhiEeufA4sIfxjdXw" value="5iqlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__GyrRYJhiEeufA4sIfxjdXw" value="dZmlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_KRIfoJ0gEeuMeeIfCAKMLg" plmIdentifier="C8plyDcyJ_cL6A" name="_KRIfoJ0gEeuMeeIfCAKMLg" hash="3e4701882f9398b1b09fab58093989c8ef692cc2" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1762346699379">
+      <plmOccurrenceIdentifiers key="d70b51ab-c529-42d0-afa8-fc14a9357bbb__KRIfoJ0gEeuMeeIfCAKMLg" value="4rulyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__KRIfoJ0gEeuMeeIfCAKMLg" value="4rrlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__KRIfoJ0gEeuMeeIfCAKMLg" value="ddilyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_uRdhMJ1KEeuMeeIfCAKMLg" plmIdentifier="C8llyDcyJ_cL6A" name="_uRdhMJ1KEeuMeeIfCAKMLg" hash="6b9ce022d92a3ef364fe4b0eb0b04ccaf11182a3" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Data Flow Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="a25a3faf-7b23-4441-983c-9a9548c77246__uRdhMJ1KEeuMeeIfCAKMLg" value="55slyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__uRdhMJ1KEeuMeeIfCAKMLg" value="55vlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__uRdhMJ1KEeuMeeIfCAKMLg" value="dtplyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_36nh4J1MEeuMeeIfCAKMLg" plmIdentifier="SAllyDcyJ_cL6A" name="_36nh4J1MEeuMeeIfCAKMLg" hash="c5c62a0952019371e452f93a1757d689361cfd6b" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Data Flow Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="10680770-dc89-4678-afbb-314c5227dec0__36nh4J1MEeuMeeIfCAKMLg" value="44qlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__36nh4J1MEeuMeeIfCAKMLg" value="44tlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__36nh4J1MEeuMeeIfCAKMLg" value="dZslyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_kAU9cJ3rEeuMeeIfCAKMLg" plmIdentifier="C4jlyDcyJ_cL6A" name="_kAU9cJ3rEeuMeeIfCAKMLg" hash="44c2d875e4829cdf00d6a9537dabca8a78b657f3" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Data Flow Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="10680770-dc89-4678-afbb-314c5227dec0__kAU9cJ3rEeuMeeIfCAKMLg" value="dRolyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__kAU9cJ3rEeuMeeIfCAKMLg" value="dRllyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__kAU9cJ3rEeuMeeIfCAKMLg" value="dRrlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_uF6vkJ36EeuMeeIfCAKMLg" plmIdentifier="C4tlyDcyJ_cL6A" name="_uF6vkJ36EeuMeeIfCAKMLg" hash="3f8bf5dc19ecafa66bfa5e01e51bf082a2de5418" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Data Flow Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="96fc0e5a-31f7-4681-8b39-a078464bad6b__uF6vkJ36EeuMeeIfCAKMLg" value="5yjlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__uF6vkJ36EeuMeeIfCAKMLg" value="5ymlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__uF6vkJ36EeuMeeIfCAKMLg" value="dVklyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_c6ogkJ4AEeuMeeIfCAKMLg" plmIdentifier="SAhlyDcyJ_cL6A" name="_c6ogkJ4AEeuMeeIfCAKMLg" hash="491439ef12b5dfa3c6e1d3d67beaa43eac60f017" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Data Flow Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="512d2990-6a53-4e1a-81dc-c37d32a2e33f__c6ogkJ4AEeuMeeIfCAKMLg" value="oeklyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__c6ogkJ4AEeuMeeIfCAKMLg" value="oenlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__c6ogkJ4AEeuMeeIfCAKMLg" value="dxklyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="__SciIKHNEeuPIIV6rmpZwg" plmIdentifier="C8vlyDcyJ_cL6A" name="__SciIKHNEeuPIIV6rmpZwg" hash="44c2d875e4829cdf00d6a9537dabca8a78b657f3" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Data Flow Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="3695618d-cf0d-4f63-95ba-89a1e1990e28___SciIKHNEeuPIIV6rmpZwg" value="YHmlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55___SciIKHNEeuPIIV6rmpZwg" value="YHjlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879___SciIKHNEeuPIIV6rmpZwg" value="dZplyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_QMo7wKQmEeuyYOCboyd6Lw" plmIdentifier="C4vlyDcyJ_cL6A" name="_QMo7wKQmEeuyYOCboyd6Lw" hash="7f1f992a7d98a34dc2530a3ae6e0dc949e78ee62" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Data Flow Blank" changeId="1741793819897">
+      <plmOccurrenceIdentifiers key="412b273b-51e9-4e0a-864e-e2a6bf9b630c__QMo7wKQmEeuyYOCboyd6Lw" value="5utlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__QMo7wKQmEeuyYOCboyd6Lw" value="5uqlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__QMo7wKQmEeuyYOCboyd6Lw" value="dRulyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_qFsAkaQqEeuyYOCboyd6Lw" plmIdentifier="C8nlyDcyJ_cL6A" name="_qFsAkaQqEeuyYOCboyd6Lw" hash="95915b510f712301bdb7e86261ab06c95ee272b0" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1757615283444">
+      <plmOccurrenceIdentifiers key="d70b51ab-c529-42d0-afa8-fc14a9357bbb__qFsAkaQqEeuyYOCboyd6Lw" value="55mlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__qFsAkaQqEeuyYOCboyd6Lw" value="55jlyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__qFsAkaQqEeuyYOCboyd6Lw" value="dZjlyDcyJ_cL6A"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_H-Cs4n3GEfCoX5-cM9D12g" plmIdentifier="C4llyDcyJ_cL6A" name="_H-Cs4n3GEfCoX5-cM9D12g" hash="9b61368201dba006e5713c2b2ea40c3ab17685d3" path="C:\staging\sysml\Nose Landing Gear_038330_A" imageFormat="JPG" type="Physical Architecture Blank" changeId="1763575310620">
+      <plmOccurrenceIdentifiers key="d70b51ab-c529-42d0-afa8-fc14a9357bbb__H-Cs4n3GEfCoX5-cM9D12g" value="prllyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="a999fe77-97b2-4580-aac4-7c7f1f9c4a55__H-Cs4n3GEfCoX5-cM9D12g" value="prilyDcyJ_cL6A"/>
+      <plmOccurrenceIdentifiers key="f9dad0df-a4cb-4073-a81e-f329162ac879__H-Cs4n3GEfCoX5-cM9D12g" value="dVtlyDcyJ_cL6A"/>
+    </images>
+  </model>
+  <archive semanticIdentifier="Nose Landing Gear.zip" plmIdentifier="C8jlyDcyJ_cL6A" name="Nose Landing Gear.zip" hash="2c8b6fefe4fb486453706d5b20738dfb259966dd" path="C:\staging\sysml\Nose Landing Gear_038330_A">
+    <plmOccurrenceIdentifiers key="Design_Nose Landing Gear.zip" value="dtvlyDcyJ_cL6A"/>
+    <files hash="98e3ee608cecc60eda38232a3df4f459c34d7f7c" path="Nose Landing Gear/.project"/>
+    <files hash="4c3e8c35c061a0552008621fb7608bb26dcf4eec" path="Nose Landing Gear/Nose Landing Gear.afm"/>
+    <files hash="e5e0adff16fb94a7ba114074442593d481a58e2a" path="Nose Landing Gear/Nose Landing Gear.aird"/>
+    <files hash="358d222952ac9921494619999c467ab937644358" path="Nose Landing Gear/Nose Landing Gear.capella"/>
+    <files hash="86425e5e9a00e1fa47dbe9b464c4b1a8b3f2c28e" path="Nose Landing Gear/images/AngelOwl_top.png"/>
+    <files hash="c8a27a27558eaa73c3099b61954468ad468e6920" path="Nose Landing Gear/images/Coastguarddrone.png"/>
+    <files hash="eae4129ed368c5b4a1cca40dd6bca448751b368a" path="Nose Landing Gear/images/SensorPackage.png"/>
+    <files hash="db16d012f51fc0eca7a6f5b5c7f54cb24681a87b" path="Nose Landing Gear/images/aircraftnose.png"/>
+    <files hash="e82a96cbd05c72de9c3ef2916739c6170bdd7340" path="Nose Landing Gear/out/Nose Landing Gear.sysml"/>
+  </archive>
+</plmpivot:PlmProject>
