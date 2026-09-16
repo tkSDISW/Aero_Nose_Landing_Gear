@@ -7919,7 +7919,7 @@
           </ownedPhysicalComponents>
           <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
               id="2b4771b0-182d-4b91-a676-ea3c80843d2a" sid="2b4771b0-182d-4b91-a676-ea3c80843d2a"
-              name="NGL Dwmlock Sensor 1" nature="BEHAVIOR">
+              name="NLG Downlock Sensor 1" nature="BEHAVIOR">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="b476992b-5878-4eac-be2f-7c61522fde1c"
                 tcuid="hRtlyDcyJ_cL6A" stableTcId="R8tlyDcyJ_cL6A" itemId="038357"
                 revisionId="A"/>
@@ -7944,7 +7944,7 @@
           </ownedPhysicalComponents>
           <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
               id="9b4305c0-2efb-426d-975a-30b2fc061001" sid="9b4305c0-2efb-426d-975a-30b2fc061001"
-              name="NGL Dwnlock Sensor 2" nature="BEHAVIOR">
+              name="NLG Downlock Sensor 2" nature="BEHAVIOR">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="c732ac63-647e-4a1a-a60c-bbf128aaa37e"
                 tcuid="BGtlyDcyJ_cL6A" stableTcId="xwtlyDcyJ_cL6A" itemId="038470"
                 revisionId="A"/>
@@ -7969,7 +7969,7 @@
           </ownedPhysicalComponents>
           <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
               id="b00d3cb9-3c97-4158-88e8-87582ab23f49" sid="b00d3cb9-3c97-4158-88e8-87582ab23f49"
-              name="NGL Uplock Sensor 2" nature="BEHAVIOR">
+              name="NLG Uplock Sensor 2" nature="BEHAVIOR">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="c4d42815-a7d0-444e-912d-6d728852966d"
                 tcuid="BGplyDcyJ_cL6A" stableTcId="xwplyDcyJ_cL6A" itemId="038468"
                 revisionId="A"/>
@@ -7994,7 +7994,7 @@
           </ownedPhysicalComponents>
           <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
               id="ff6e49f3-c850-428f-a663-7138d97699c7" sid="ff6e49f3-c850-428f-a663-7138d97699c7"
-              name="NGL Uplocak Sensor 1" nature="BEHAVIOR">
+              name="NLG Uplock Sensor 1" nature="BEHAVIOR">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="256e3003-651f-4b7d-ac09-21e50dacd994"
                 tcuid="xVtlyDcyJ_cL6A" stableTcId="xAtlyDcyJ_cL6A" itemId="038423"
                 revisionId="A"/>
@@ -8957,7 +8957,7 @@
             </ownedPhysicalComponents>
             <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
                 id="09723b21-ede3-4eb7-8767-37ef6b7716eb" sid="09723b21-ede3-4eb7-8767-37ef6b7716eb"
-                name="NGL Dwnlock Sensor 2" nature="NODE">
+                name="NLG Downlock Sensor 2" nature="NODE">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="34e9f117-d392-4173-88ac-179014be9d57"
                   tcuid="xBllyDcyJ_cL6A" stableTcId="hsllyDcyJ_cL6A" itemId="038399"
                   revisionId="A"/>
@@ -9014,7 +9014,7 @@
             </ownedPhysicalComponents>
             <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
                 id="42550fa6-d7a1-4c42-9e63-11a02377980b" sid="42550fa6-d7a1-4c42-9e63-11a02377980b"
-                name="NGL Uplock Sensor 2" nature="NODE">
+                name="NLG Uplock Sensor 2" nature="NODE">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="9ea1aa49-a5c1-4fae-8b1e-c21d1e4f44f8"
                   tcuid="xdjlyDcyJ_cL6A" stableTcId="xIjlyDcyJ_cL6A" itemId="038427"
                   revisionId="A"/>
@@ -9080,7 +9080,7 @@
             </ownedPhysicalComponents>
             <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
                 id="96cb3652-544d-4ac3-a718-5c48a386628f" sid="96cb3652-544d-4ac3-a718-5c48a386628f"
-                name="NGL Uplock Sensor 1" nature="NODE">
+                name="NLG Uplock Sensor 1" nature="NODE">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="d271d414-6eb9-4bb4-978f-601e46f420fb"
                   tcuid="xptlyDcyJ_cL6A" stableTcId="xUtlyDcyJ_cL6A" itemId="038443"
                   revisionId="A"/>
@@ -9116,7 +9116,7 @@
               </ownedFeatures>
               <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
                   id="f540a33e-d166-4593-9860-77309e6e02ef" sid="f540a33e-d166-4593-9860-77309e6e02ef"
-                  name="NGL Dwnlock Sensor 1" nature="NODE">
+                  name="NLG Downlock Sensor 1" nature="NODE">
                 <ownedExtensions xsi:type="smw:TcItemRevision" id="6aa9d8b2-a707-464d-9daf-28d05dbc3a6f"
                     tcuid="xlvlyDcyJ_cL6A" stableTcId="xQvlyDcyJ_cL6A" itemId="038439"
                     revisionId="A"/>
@@ -9551,7 +9551,7 @@
             </ownedFunctionalAllocation>
           </ownedPhysicalComponents>
           <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
-              id="29bd8398-2f30-4936-be73-59b4e741aec6" name="H Resivior" nature="NODE">
+              id="29bd8398-2f30-4936-be73-59b4e741aec6" name="H Reservoir" nature="NODE">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="74750f3d-368c-4898-8cb4-34921d4ef669"
                 tcuid="xpvlyDcyJ_cL6A" stableTcId="xUvlyDcyJ_cL6A" itemId="038444"
                 revisionId="A"/>
