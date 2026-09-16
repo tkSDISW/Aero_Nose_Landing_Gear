@@ -4786,8 +4786,9 @@
           </ownedComponentExchangeFunctionalExchangeAllocations>
         </ownedComponentExchanges>
         <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-            id="d687cc15-9a49-494d-b5ec-16154f13c6f4" name="C 14" source="#381777bb-8582-4ad2-b323-8fa0d44bccbe"
-            target="#91435aa7-b8fb-49c7-96f2-e1a77845ff65" kind="FLOW">
+            id="d687cc15-9a49-494d-b5ec-16154f13c6f4" name="NLG Wheel to Runway Interface"
+            source="#381777bb-8582-4ad2-b323-8fa0d44bccbe" target="#91435aa7-b8fb-49c7-96f2-e1a77845ff65"
+            kind="FLOW">
           <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
               id="6a36356c-0029-4a1a-bc51-2b8a9f36ba3d" targetElement="#7cee4409-2d70-49cf-9ffa-b6541a64d7e4"
               sourceElement="#d687cc15-9a49-494d-b5ec-16154f13c6f4"/>
@@ -5234,8 +5235,9 @@
             </ownedComponentExchangeFunctionalExchangeAllocations>
           </ownedComponentExchanges>
           <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-              id="16a559d3-a34a-4e83-a52b-4c5d265ce1ef" name="C 23" source="#dbbafb2a-044b-40bb-981d-722e9386ff0b"
-              target="#e655f23a-af6f-4def-9ef3-fcbb0e6c8a61" kind="FLOW">
+              id="16a559d3-a34a-4e83-a52b-4c5d265ce1ef" name="Dump Valve to Selector Valve Pressure"
+              source="#dbbafb2a-044b-40bb-981d-722e9386ff0b" target="#e655f23a-af6f-4def-9ef3-fcbb0e6c8a61"
+              kind="FLOW">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="c5b6df49-e0fb-496f-90e3-5f5d4176261f"
                 tcuid="QhjlyDcyJ_cL6A" stableTcId="QsrlyDcyJ_cL6A" occTcuid="FGplyDcyJ_cL6A"
                 itemId="037990" revisionId="A"/>
@@ -5247,8 +5249,9 @@
             </ownedComponentExchangeFunctionalExchangeAllocations>
           </ownedComponentExchanges>
           <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-              id="cbd135f0-e619-4859-ac05-95ec6622490e" name="C 24" source="#c87846e0-95b5-44eb-985a-5151cd60d794"
-              target="#153d634c-8bea-494d-8893-ad697362cbe3" kind="FLOW">
+              id="cbd135f0-e619-4859-ac05-95ec6622490e" name="Dump Valve to Reservoir Return"
+              source="#c87846e0-95b5-44eb-985a-5151cd60d794" target="#153d634c-8bea-494d-8893-ad697362cbe3"
+              kind="FLOW">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="eaa4d605-99a4-4d38-baf0-e7cc4871b20f"
                 tcuid="A1vlyDcyJ_cL6A" stableTcId="QEnlyDcyJ_cL6A" occTcuid="FAplyDcyJ_cL6A"
                 itemId="037975" revisionId="A"/>
@@ -5260,8 +5263,9 @@
             </ownedComponentExchangeFunctionalExchangeAllocations>
           </ownedComponentExchanges>
           <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-              id="60b22a4a-8789-4f62-8476-a67077e8dd97" name="C 25" source="#90c11696-6215-44f3-8f8e-9a20a293d087"
-              target="#7727554d-98ae-4bc9-a82d-cc43d32baaef" kind="FLOW">
+              id="60b22a4a-8789-4f62-8476-a67077e8dd97" name="Airframe to Strut Post Interface"
+              source="#90c11696-6215-44f3-8f8e-9a20a293d087" target="#7727554d-98ae-4bc9-a82d-cc43d32baaef"
+              kind="FLOW">
             <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                 id="58180733-9c92-4914-b94a-9302585dfbcb" targetElement="#e9d0cadd-34a1-4f2d-8be6-334fd4af0052"
                 sourceElement="#60b22a4a-8789-4f62-8476-a67077e8dd97"/>
