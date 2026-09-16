@@ -4347,8 +4347,8 @@
                 itemId="038123" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="832de532-5107-4edb-a0e5-b610d918034f" name="FunctionalExchange 121"
-              target="#e7b78ebb-4569-4b17-92ea-3aaf7c1e0c97" source="#0111c000-6523-459d-a868-421524735de9">
+              id="832de532-5107-4edb-a0e5-b610d918034f" name="Structural Load" target="#e7b78ebb-4569-4b17-92ea-3aaf7c1e0c97"
+              source="#0111c000-6523-459d-a868-421524735de9">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="f8ecb911-df0d-476a-94a8-1196f2791580"
                 tcuid="QtrlyDcyJ_cL6A" stableTcId="Q8jlyDcyJ_cL6A" occTcuid="7cslyDcyJ_cL6A"
                 itemId="038166" revisionId="A"/>
@@ -4368,7 +4368,7 @@
                 itemId="038076" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="1b0e1049-f651-458e-94c5-4381a74f18bb" name="FunctionalExchange 123"
+              id="1b0e1049-f651-458e-94c5-4381a74f18bb" name="Deliver Spring Force"
               target="#bb3996ab-204b-4ab5-a85f-42335ff7cc71" source="#67e1518f-0f18-4a3e-988f-97e28b97ab01">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="cb360d38-f133-430a-8292-cf9e90b412f9"
                 tcuid="QlvlyDcyJ_cL6A" stableTcId="Q0nlyDcyJ_cL6A" occTcuid="7uslyDcyJ_cL6A"
@@ -4389,14 +4389,14 @@
                 itemId="038192" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="c4b6b216-e81c-4e1b-b059-195564f4e397" name="FunctionalExchange 122"
+              id="c4b6b216-e81c-4e1b-b059-195564f4e397" name="Low Pressure Fluid"
               target="#f1e75676-1702-480e-a605-77823726f38d" source="#e5cd368d-583b-402a-9ddd-23f4b13a8555">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="786060c6-c8c6-47f5-b8ab-2df56416a66d"
                 tcuid="QNvlyDcyJ_cL6A" stableTcId="QcnlyDcyJ_cL6A" occTcuid="73slyDcyJ_cL6A"
                 itemId="038132" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="58b22acb-b13f-4000-bdf5-222a6006c90c" name="FunctionalExchange 124"
+              id="58b22acb-b13f-4000-bdf5-222a6006c90c" name="No. 3 Hydraulic System"
               target="#a7b044b8-8d81-42eb-bac1-b712676f413d" source="#bf89528d-88a0-40fa-8dc4-b83f07d99f84">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="4683f104-9ba8-4ef2-8c17-6ce0ee837b5b"
                 tcuid="QBtlyDcyJ_cL6A" stableTcId="QQllyDcyJ_cL6A" occTcuid="L6slyDcyJ_cL6A"
@@ -4431,8 +4431,8 @@
                 itemId="038135" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="afaffcef-2120-4d31-a0f8-b21afbc81f2b" name="FunctionalExchange 125"
-              target="#b24fa406-cbb5-413d-a160-36cb22a2ea12" source="#37f81673-c56c-4900-92a7-d1e039852498">
+              id="afaffcef-2120-4d31-a0f8-b21afbc81f2b" name="Door Position" target="#b24fa406-cbb5-413d-a160-36cb22a2ea12"
+              source="#37f81673-c56c-4900-92a7-d1e039852498">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="0026b0b9-a979-4f79-bbb8-2378dcca3044"
                 tcuid="AdjlyDcyJ_cL6A" stableTcId="AorlyDcyJ_cL6A" occTcuid="N4slyDcyJ_cL6A"
                 itemId="038071" revisionId="A"/>
