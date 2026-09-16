@@ -5916,7 +5916,7 @@
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
               id="b23e70fa-3b8a-4624-ad4f-057491f43f46" sid="b23e70fa-3b8a-4624-ad4f-057491f43f46"
-              name="PL 20" linkEnds="#d4ea69b9-697a-41fa-aa10-b004a541870b #15a2f7e9-9a70-47e6-b227-7d39445b9273">
+              name="NLG Selector Valve to Actuator" linkEnds="#d4ea69b9-697a-41fa-aa10-b004a541870b #15a2f7e9-9a70-47e6-b227-7d39445b9273">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="b5bde7a8-e800-49e0-870b-1f34e2f6b1e8"
                 tcuid="QNjlyDcyJ_cL6A" stableTcId="QYrlyDcyJ_cL6A" occTcuid="F8plyDcyJ_cL6A"
                 itemId="038032" revisionId="A"/>
@@ -5955,7 +5955,7 @@
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
               id="96356375-49e5-4304-b22a-14a1cc1304e0" sid="96356375-49e5-4304-b22a-14a1cc1304e0"
-              name="PL 36" linkEnds="#534dea41-d4b2-4980-8149-508de96e2893 #44f4b3a5-f188-4646-b5c7-b3ec87c3039a">
+              name="Door Actuator to Door Sensor" linkEnds="#534dea41-d4b2-4980-8149-508de96e2893 #44f4b3a5-f188-4646-b5c7-b3ec87c3039a">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="2274d5b5-769b-4584-a916-8f4335d954d7"
                 tcuid="A1plyDcyJ_cL6A" stableTcId="QEhlyDcyJ_cL6A" occTcuid="ZAulyDcyJ_cL6A"
                 itemId="038020" revisionId="A"/>
@@ -6027,7 +6027,7 @@
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
               id="fec5b940-e96a-422c-9a05-f0c7f34f6b9a" sid="fec5b940-e96a-422c-9a05-f0c7f34f6b9a"
-              name="PL 42" linkEnds="#0c8d7f46-5af3-4e02-9893-ef64144fb6a5 #dc57d1db-b5e1-4fe9-9f07-ff5c4819ef66">
+              name="Wheel Housing to Shock Absorber" linkEnds="#0c8d7f46-5af3-4e02-9893-ef64144fb6a5 #dc57d1db-b5e1-4fe9-9f07-ff5c4819ef66">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="00e4bd22-50e0-4cd4-ad58-b41231a4ad73"
                 tcuid="QBllyDcyJ_cL6A" stableTcId="QMtlyDcyJ_cL6A" occTcuid="pUulyDcyJ_cL6A"
                 itemId="038026" revisionId="A"/>
@@ -6040,7 +6040,7 @@
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
               id="f418ca74-6ea7-4077-811d-71240598eac9" sid="f418ca74-6ea7-4077-811d-71240598eac9"
-              name="PL 43" linkEnds="#61267105-6aa9-47e4-89cd-080a9070c22b #4c591b81-6bd6-4543-8252-c836cd74342d">
+              name="Wheel Housing to Structural Post" linkEnds="#61267105-6aa9-47e4-89cd-080a9070c22b #4c591b81-6bd6-4543-8252-c836cd74342d">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="a9475f76-9f17-4675-b98e-bfc603920d85"
                 tcuid="ApplyDcyJ_cL6A" stableTcId="A4hlyDcyJ_cL6A" occTcuid="5QulyDcyJ_cL6A"
                 itemId="038012" revisionId="A"/>
@@ -6088,7 +6088,7 @@
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
               id="2d927448-849b-48b6-ae7c-55167bfdede6" sid="2d927448-849b-48b6-ae7c-55167bfdede6"
-              name="PL 49" linkEnds="#f91f1dc9-6709-4b71-aa93-7bb799409c97 #a62b322e-26d0-478b-8e8a-d53d1b97c351">
+              name="Structural Post to Airframe" linkEnds="#f91f1dc9-6709-4b71-aa93-7bb799409c97 #a62b322e-26d0-478b-8e8a-d53d1b97c351">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="635e0e57-3871-4602-9182-b0a98862cf42"
                 tcuid="AZvlyDcyJ_cL6A" stableTcId="AonlyDcyJ_cL6A" occTcuid="VUplyDcyJ_cL6A"
                 itemId="038006" revisionId="A"/>
@@ -6105,7 +6105,7 @@
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
               id="282e8334-5b1c-46f6-a1bf-2c467cb80c74" sid="282e8334-5b1c-46f6-a1bf-2c467cb80c74"
-              name="PL 48" linkEnds="#cc544401-f977-4528-bec2-65bfc97474f4 #57dab957-0719-4d48-8268-718e9ca6b671">
+              name="Junction to Wheel Housing" linkEnds="#cc544401-f977-4528-bec2-65bfc97474f4 #57dab957-0719-4d48-8268-718e9ca6b671">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="f149706e-ef67-4e0b-afae-e8fc6231a8d2"
                 tcuid="gNtlyDcyJ_cL6A" stableTcId="gcllyDcyJ_cL6A" occTcuid="mwplyDcyJ_cL6A"
                 itemId="038066" revisionId="A"/>
@@ -6123,13 +6123,14 @@
             </ownedComponentExchangeAllocations>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="e23c07ab-8745-4c18-a4cd-d3e8416e973b" name="PL 46" linkEnds="#c9d16183-42eb-4d12-bb69-abe64ef6c059 #310bc900-4f70-4b1f-92e3-26e53c3b0745">
+              id="e23c07ab-8745-4c18-a4cd-d3e8416e973b" name="LGCIU to Com Bus" linkEnds="#c9d16183-42eb-4d12-bb69-abe64ef6c059 #310bc900-4f70-4b1f-92e3-26e53c3b0745">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="7ca20cbc-796b-4871-8879-367eeae3b9aa"
                 tcuid="ApnlyDcyJ_cL6A" stableTcId="A0vlyDcyJ_cL6A" occTcuid="GyplyDcyJ_cL6A"
                 itemId="038011" revisionId="A"/>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="f1e3cd51-e931-4b3d-b700-0127f9d4c160" name="PL 47" linkEnds="#635e5366-f798-4a32-9972-386a8f874eab #9b8201a4-ef7a-4197-a060-c885986b9dae">
+              id="f1e3cd51-e931-4b3d-b700-0127f9d4c160" name="WoW Sensor 1 to Com Bus"
+              linkEnds="#635e5366-f798-4a32-9972-386a8f874eab #9b8201a4-ef7a-4197-a060-c885986b9dae">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="ac3b6dec-a62e-4e07-9d50-2eb6b6ca2f0d"
                 tcuid="QdtlyDcyJ_cL6A" stableTcId="QsllyDcyJ_cL6A" occTcuid="lrplyDcyJ_cL6A"
                 itemId="038043" revisionId="A"/>
@@ -6196,7 +6197,8 @@
             </ownedComponentExchangeAllocations>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="367c22c4-34dd-411b-9759-827ea0f57faa" name="PL 39" linkEnds="#c251b70a-a3d7-48fc-9e12-56358ce95a73 #2fb6d172-554a-4c45-9879-4bf27cbc3cc1">
+              id="367c22c4-34dd-411b-9759-827ea0f57faa" name="Dump Valve to Reservoir"
+              linkEnds="#c251b70a-a3d7-48fc-9e12-56358ce95a73 #2fb6d172-554a-4c45-9879-4bf27cbc3cc1">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="9e6ced8c-4589-48d2-9602-8e08a733fc18"
                 tcuid="AxhlyDcyJ_cL6A" stableTcId="A8plyDcyJ_cL6A" occTcuid="FVplyDcyJ_cL6A"
                 itemId="038016" revisionId="A"/>
@@ -8785,7 +8787,8 @@
               </ownedDeploymentLinks>
             </ownedFeatures>
             <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-                id="2bf670a3-1ba2-4182-9dad-471d5689b95e" name="PL 1" linkEnds="#891b152b-23eb-4e07-a97b-622bfd41f21c #421970f8-0c30-4f06-b3e1-df7073223e0e">
+                id="2bf670a3-1ba2-4182-9dad-471d5689b95e" name="Shock Absorber to Structural Post"
+                linkEnds="#891b152b-23eb-4e07-a97b-622bfd41f21c #421970f8-0c30-4f06-b3e1-df7073223e0e">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="7890e09e-f41c-466f-b36a-72f87af7e951"
                   tcuid="gJtlyDcyJ_cL6A" stableTcId="gYllyDcyJ_cL6A" occTcuid="JBulyDcyJ_cL6A"
                   itemId="038064" revisionId="A"/>
@@ -8798,28 +8801,28 @@
             </ownedPhysicalLinks>
             <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
                 id="8c140267-99e2-4152-ae9c-967ed595e955" sid="8c140267-99e2-4152-ae9c-967ed595e955"
-                name="PL 27" linkEnds="#5505dff9-b352-4625-8ca5-b37decaadd25 #037b6820-ec03-4412-8171-244f696ddfcf">
+                name="Wheel Housing to Downlock Sensor 2" linkEnds="#5505dff9-b352-4625-8ca5-b37decaadd25 #037b6820-ec03-4412-8171-244f696ddfcf">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="e24187fd-8da0-4265-ab13-b3b7e37ec6b9"
                   tcuid="QBnlyDcyJ_cL6A" stableTcId="QMvlyDcyJ_cL6A" occTcuid="pgulyDcyJ_cL6A"
                   itemId="038027" revisionId="A"/>
             </ownedPhysicalLinks>
             <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
                 id="7a1be218-3fb5-47d1-adea-529032a8b5ec" sid="7a1be218-3fb5-47d1-adea-529032a8b5ec"
-                name="PL 26" linkEnds="#d899934c-b972-409a-9713-e3846a8b8d78 #bf7c869f-f3fc-4890-b19f-758cf976622f">
+                name="Wheel Housing to Downlock Sensor 1" linkEnds="#d899934c-b972-409a-9713-e3846a8b8d78 #bf7c869f-f3fc-4890-b19f-758cf976622f">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="47f1ee10-3a6e-413e-8922-954ebaa48570"
                   tcuid="gJhlyDcyJ_cL6A" stableTcId="gUplyDcyJ_cL6A" occTcuid="pFulyDcyJ_cL6A"
                   itemId="038062" revisionId="A"/>
             </ownedPhysicalLinks>
             <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
                 id="e0fdb2b6-f6b5-4d3a-808a-6d55ff5328c7" sid="e0fdb2b6-f6b5-4d3a-808a-6d55ff5328c7"
-                name="PL 25" linkEnds="#1a1b7ac2-34a8-48e0-b97f-a3512315bc09 #2898bd76-0e0b-4321-a03f-7bb91813ddd4">
+                name="Wheel Housing to Uplock Sensor 2" linkEnds="#1a1b7ac2-34a8-48e0-b97f-a3512315bc09 #2898bd76-0e0b-4321-a03f-7bb91813ddd4">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="c6c14206-c5f6-4908-abb2-149bd38ad058"
                   tcuid="QVvlyDcyJ_cL6A" stableTcId="QknlyDcyJ_cL6A" occTcuid="psulyDcyJ_cL6A"
                   itemId="038038" revisionId="A"/>
             </ownedPhysicalLinks>
             <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
                 id="bb425b5f-290b-4518-a534-23695d60b84d" sid="bb425b5f-290b-4518-a534-23695d60b84d"
-                name="PL 24" linkEnds="#5b9cdf84-541a-4a95-be7e-b1b2714dc758 #6e8e2f2a-a887-4aa8-91b6-5f110c6c8a5e">
+                name="Wheel Housing to Uplock Sensor 1" linkEnds="#5b9cdf84-541a-4a95-be7e-b1b2714dc758 #6e8e2f2a-a887-4aa8-91b6-5f110c6c8a5e">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="7f2527ff-8615-4af2-be03-4c33e99b6b31"
                   tcuid="Q9llyDcyJ_cL6A" stableTcId="gItlyDcyJ_cL6A" occTcuid="ZwulyDcyJ_cL6A"
                   itemId="038056" revisionId="A"/>
