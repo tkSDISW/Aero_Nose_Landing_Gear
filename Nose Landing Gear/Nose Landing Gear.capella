@@ -4119,14 +4119,14 @@
                 itemId="006648" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="a6323585-d7fe-48a4-9fd2-6c73636ff52d" name="Pressurized Hydaulic Center"
+              id="a6323585-d7fe-48a4-9fd2-6c73636ff52d" name="Pressurized Hydraulic Center"
               target="#5ec1cec2-e89a-454e-80c6-f58ed1692773" source="#89c4cec9-f192-48a4-9bc4-ac91e4305eeb">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="ac4704cb-4350-4221-ae71-545b2406037f"
                 tcuid="wJHAQwBwZ3T1BC" stableTcId="wkPAQwBwZ3T1BC" occTcuid="McHAQwBwZ3T1BC"
                 itemId="006672" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="3a359c3c-a4a2-411a-8961-29a1bfbea4c6" name="Low Pressure Flius"
+              id="3a359c3c-a4a2-411a-8961-29a1bfbea4c6" name="Low Pressure Fluid"
               target="#f85f98aa-7a59-46c6-835d-9f512a940444" source="#afaac39e-d022-4e8c-958d-143dc8edb2f5">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="b7a56032-bf98-49a5-93b0-4c78a008d71b"
                 tcuid="wRLAQwBwZ3T1BC" stableTcId="wwDAQwBwZ3T1BC" occTcuid="saBAQwBwZ3T1BC"
@@ -5772,13 +5772,15 @@
                 sourceElement="#f4fb3042-bbcb-4e55-95ae-e676e8dcb408"/>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="bc30689c-c382-4ea9-a33a-ac16501498ed" name="PL 44" linkEnds="#b816f9f3-5a1b-4298-bf79-2c20d05b2a9b #5da2f701-9e4c-4411-b17e-cc6b7bc550a4">
+              id="bc30689c-c382-4ea9-a33a-ac16501498ed" name="NLG Selector Valve to NLG Dump Valve"
+              linkEnds="#b816f9f3-5a1b-4298-bf79-2c20d05b2a9b #5da2f701-9e4c-4411-b17e-cc6b7bc550a4">
             <ownedComponentExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeAllocation"
                 id="1133e761-679e-42d6-ada7-af1fc8ed4b76" targetElement="#c3caa067-07c8-4ac3-a5b8-7cd31d9cc04b"
                 sourceElement="#bc30689c-c382-4ea9-a33a-ac16501498ed"/>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="fdee7afb-3707-4375-a8f4-5cfbddb14d49" name="PL 45" linkEnds="#fd1f682a-2895-4d95-ac26-9b0a694e4b03 #9df8aae1-fd5a-4efe-96d4-6dedc559daef">
+              id="fdee7afb-3707-4375-a8f4-5cfbddb14d49" name="NLG Dump Valve to H Reservoir"
+              linkEnds="#fd1f682a-2895-4d95-ac26-9b0a694e4b03 #9df8aae1-fd5a-4efe-96d4-6dedc559daef">
             <ownedComponentExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeAllocation"
                 id="d9ca9214-4848-44d6-9145-22f55718f2ff" targetElement="#7ea77cc3-28bc-4e03-8364-e9ca89d9083e"
                 sourceElement="#fdee7afb-3707-4375-a8f4-5cfbddb14d49"/>
@@ -7864,15 +7866,17 @@
                   sourceElement="#f024d824-6d61-4ea2-bd4a-f756f0ca019e"/>
             </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                id="7ea77cc3-28bc-4e03-8364-e9ca89d9083e" name="C 5" source="#d3e84e28-0072-4eee-845c-fd1c3ce28bc5"
-                target="#7a7a43f3-c8b8-4b97-b3d3-c02be00b9526" kind="FLOW">
+                id="7ea77cc3-28bc-4e03-8364-e9ca89d9083e" name="NLG Dump Valve to H Reservoir"
+                source="#d3e84e28-0072-4eee-845c-fd1c3ce28bc5" target="#7a7a43f3-c8b8-4b97-b3d3-c02be00b9526"
+                kind="FLOW">
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="d1d75442-d548-41a8-8925-ae84320244f7" targetElement="#3a359c3c-a4a2-411a-8961-29a1bfbea4c6"
                   sourceElement="#7ea77cc3-28bc-4e03-8364-e9ca89d9083e"/>
             </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                id="c3caa067-07c8-4ac3-a5b8-7cd31d9cc04b" name="C 6" source="#df9d985f-6866-402a-97d0-bce662e4e71a"
-                target="#a5c06e14-ca66-4c0e-a007-cf9979c7ea32" kind="FLOW">
+                id="c3caa067-07c8-4ac3-a5b8-7cd31d9cc04b" name="NLG Control Valve to NLG Dump Valve"
+                source="#df9d985f-6866-402a-97d0-bce662e4e71a" target="#a5c06e14-ca66-4c0e-a007-cf9979c7ea32"
+                kind="FLOW">
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="8395239d-6112-4c3c-9cf8-550b696b6213" targetElement="#a6323585-d7fe-48a4-9fd2-6c73636ff52d"
                   sourceElement="#c3caa067-07c8-4ac3-a5b8-7cd31d9cc04b"/>
