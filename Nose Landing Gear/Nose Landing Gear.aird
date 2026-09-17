@@ -45,7 +45,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponent" href="Nose%20Landing%20Gear.capella#3f63e635-d46d-4836-93cf-daa5f8a02a4a"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_9-zcMXu-Eeu91bEqYT4XeQ" name="Demo 2 [PAB] Payload Subsystem" repPath="#_9-w_8Hu-Eeu91bEqYT4XeQ" changeId="1789621170336">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_9-zcMXu-Eeu91bEqYT4XeQ" name="Demo 2 [PAB] Payload Subsystem" repPath="#_9-w_8Hu-Eeu91bEqYT4XeQ" changeId="1789623150090">
         <eAnnotations xmi:type="description:DAnnotation" uid="_9-5i0Hu-Eeu91bEqYT4XeQ" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9-5i0Xu-Eeu91bEqYT4XeQ" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9-5i0nu-Eeu91bEqYT4XeQ" key="hide.computed.physical.links.filter" value="true"/>
@@ -114,7 +114,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Data%20Flow%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.pa:PhysicalFunction" href="Nose%20Landing%20Gear.capella#412b273b-51e9-4e0a-864e-e2a6bf9b630c"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_qF4N0KQqEeuyYOCboyd6Lw" name="[PAB] NLG No Functions" repPath="#_qFsAkaQqEeuyYOCboyd6Lw" changeId="1789621170336">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_qF4N0KQqEeuyYOCboyd6Lw" name="[PAB] NLG No Functions" repPath="#_qFsAkaQqEeuyYOCboyd6Lw" changeId="1789623150090">
         <eAnnotations xmi:type="description:DAnnotation" uid="_qFsAkKQqEeuyYOCboyd6Lw" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_qF_ikKQqEeuyYOCboyd6Lw" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_qF_ikaQqEeuyYOCboyd6Lw" key="hide.computed.physical.links.filter" value="true"/>
@@ -122,7 +122,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponentPkg" href="Nose%20Landing%20Gear.capella#d70b51ab-c529-42d0-afa8-fc14a9357bbb"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_H-IPd33GEfCoX5-cM9D12g" name="[PAB] Nose Wheel Landing Gear  FC" repPath="#_H-Cs4n3GEfCoX5-cM9D12g" changeId="1789621170336">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_H-IPd33GEfCoX5-cM9D12g" name="[PAB] Nose Wheel Landing Gear  FC" repPath="#_H-Cs4n3GEfCoX5-cM9D12g" changeId="1789623150091">
         <eAnnotations xmi:type="description:DAnnotation" uid="_H-Cs4H3GEfCoX5-cM9D12g" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_H-R9cH3GEfCoX5-cM9D12g" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_H-R9cX3GEfCoX5-cM9D12g" key="hide.computed.physical.links.filter" value="true"/>
@@ -5890,7 +5890,7 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@nodeMappings[name='PAB_PhysicalFunction']"/>
       </ownedDiagramElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_TqElcHwlEeu91bEqYT4XeQ" name="[Functional Exchange]" sourceNode="_Tp-e0HwlEeu91bEqYT4XeQ" targetNode="_QE_VInwlEeu91bEqYT4XeQ" beginLabel="." endLabel=".">
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_TqElcHwlEeu91bEqYT4XeQ" name="No Name" sourceNode="_Tp-e0HwlEeu91bEqYT4XeQ" targetNode="_QE_VInwlEeu91bEqYT4XeQ" beginLabel="." endLabel=".">
       <target xmi:type="org.polarsys.capella.core.data.fa:FunctionalExchange" href="Nose%20Landing%20Gear.capella#30c4fd48-fd98-416e-9086-feb98586279d"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.fa:FunctionalExchange" href="Nose%20Landing%20Gear.capella#30c4fd48-fd98-416e-9086-feb98586279d"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" uid="_jocTVLJUEfG8YdK2ilEeiA" description="_joaeILJUEfG8YdK2ilEeiA" targetArrow="NoDecoration" centered="Both" strokeColor="9,92,46">
@@ -30082,7 +30082,7 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']/@conditionnalStyles.2/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']"/>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_qFvEoaQqEeuyYOCboyd6Lw" name="Landing Gear Control and Indication Computer">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_qFvEoaQqEeuyYOCboyd6Lw" name="Landing Gear Control and Indication Computer 1">
         <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#eb7da3b1-ba85-4a01-b68f-2f17b0c9549e"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#eb7da3b1-ba85-4a01-b68f-2f17b0c9549e"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponent" href="Nose%20Landing%20Gear.capella#270292bc-dc80-40fa-9dd7-43cf3256b95c"/>
@@ -38749,7 +38749,7 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']/@conditionnalStyles.2/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']"/>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_H-CtFn3GEfCoX5-cM9D12g" name="NLG Door">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_H-CtFn3GEfCoX5-cM9D12g" name="NLG Door Actuator">
         <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#40d3799b-932a-437e-aa46-9a6602e38fa9"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#40d3799b-932a-437e-aa46-9a6602e38fa9"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponent" href="Nose%20Landing%20Gear.capella#1a963639-f7e9-4022-aa22-d8b0daf42b9d"/>
@@ -39500,7 +39500,7 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']/@conditionnalStyles.2/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer/@containerMappings[name='PAB_PC']"/>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_H-CuLX3GEfCoX5-cM9D12g" name="Landing Gear Control and Indication Computer">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_H-CuLX3GEfCoX5-cM9D12g" name="Landing Gear Control and Indication Computer 1">
         <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#eb7da3b1-ba85-4a01-b68f-2f17b0c9549e"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#eb7da3b1-ba85-4a01-b68f-2f17b0c9549e"/>
         <semanticElements xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponent" href="Nose%20Landing%20Gear.capella#270292bc-dc80-40fa-9dd7-43cf3256b95c"/>
@@ -55217,4 +55217,12 @@
     <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']/@defaultLayer"/>
     <target xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponentPkg" href="Nose%20Landing%20Gear.capella#d70b51ab-c529-42d0-afa8-fc14a9357bbb"/>
   </diagram:DSemanticDiagram>
+  <viewpoint:DAnalysisCustomData uid="_R3CfgLJaEfG8YdK2ilEeiA" key="REQUIREMENTS_VP_QUERIES">
+    <data xmi:type="ecore:EAnnotation" xmi:id="_R3DtoLJaEfG8YdK2ilEeiA">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R3DtobJaEfG8YdK2ilEeiA" key="REQUIREMENTS_VP_LABEL_QUERY" value="aql:OrderedSet{self.ReqIFPrefix, self.ReqIFLongName}"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R3DtorJaEfG8YdK2ilEeiA" key="REQUIREMENTS_VP_CONTENT_QUERY" value="aql:self.ReqIFText"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R3Dto7JaEfG8YdK2ilEeiA" key="REQUIREMENTS_VP_LABEL_LENGTH" value="80"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R3DtpLJaEfG8YdK2ilEeiA" key="REQUIREMENTS_VP_CONTENT_LENGTH" value="300"/>
+    </data>
+  </viewpoint:DAnalysisCustomData>
 </xmi:XMI>
