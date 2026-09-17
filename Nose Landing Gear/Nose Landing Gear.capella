@@ -8188,8 +8188,9 @@
               </ownedComponentExchangeFunctionalExchangeAllocations>
             </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                id="9d144b9e-1cd2-440b-a540-60b7a99884a2" name="C 7" source="#968f89ad-1241-4c31-a518-a6b3e3568f65"
-                target="#065ec579-a849-4726-905f-98a7a66676e7" kind="FLOW">
+                id="9d144b9e-1cd2-440b-a540-60b7a99884a2" name="Pressured Hydraulic to NLG Doors Selector Valve"
+                source="#968f89ad-1241-4c31-a518-a6b3e3568f65" target="#065ec579-a849-4726-905f-98a7a66676e7"
+                kind="FLOW">
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="0ce3d30d-56a3-4129-9b46-b96ee24b4c81" targetElement="#58b22acb-b13f-4000-bdf5-222a6006c90c"
                   sourceElement="#9d144b9e-1cd2-440b-a540-60b7a99884a2"/>
