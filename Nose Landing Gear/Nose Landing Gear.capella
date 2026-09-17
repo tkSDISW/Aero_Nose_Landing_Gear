@@ -1034,7 +1034,7 @@
                 id="cf805229-a027-47cc-9271-f16e1c9d2c14" name="FIP 1"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="39a2b353-2e7e-4f81-86a2-3399a2c8f454" sid="39a2b353-2e7e-4f81-86a2-3399a2c8f454"
-                name="FIP 1"/>
+                name="FIP 2"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="435f1f97-a7e3-4046-a05d-39b68e57880f" sid="435f1f97-a7e3-4046-a05d-39b68e57880f"
                 name="FOP 1"/>
@@ -1534,7 +1534,7 @@
                 name="FOP 1"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="0ebd3473-fc12-49b2-97fe-0cddbb40ca6a" sid="0ebd3473-fc12-49b2-97fe-0cddbb40ca6a"
-                name="FOP 1"/>
+                name="FOP 2"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="15105280-f4aa-40dd-bd9f-5f5138f555b9" name="FOP 3"/>
           </ownedFunctions>
@@ -1625,22 +1625,22 @@
                 name="FIP 13"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="aa3432ee-6ff3-43fa-9384-9410bed3c2af" sid="aa3432ee-6ff3-43fa-9384-9410bed3c2af"
-                name="FIP 2"/>
+                name="FIP 16"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="7230f195-f363-4349-8c34-46dc4b66e30a" sid="7230f195-f363-4349-8c34-46dc4b66e30a"
-                name="FIP 3"/>
+                name="FIP 18"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="5f8eb61d-19a5-4793-a0ee-d0265d6250f2" sid="5f8eb61d-19a5-4793-a0ee-d0265d6250f2"
-                name="FIP 1"/>
+                name="FIP 14"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="c3957605-658b-4515-8b0d-c68e7e3449e8" sid="c3957605-658b-4515-8b0d-c68e7e3449e8"
-                name="FIP 1"/>
+                name="FIP 15"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="46c1068a-504f-4b30-be60-ed639e1a7743" sid="46c1068a-504f-4b30-be60-ed639e1a7743"
-                name="FIP 3"/>
+                name="FIP 19"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="9b6fddba-1fdf-4691-ae9d-ba0e714d0f3c" sid="9b6fddba-1fdf-4691-ae9d-ba0e714d0f3c"
-                name="FIP 2"/>
+                name="FIP 17"/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="93ac3f8c-a698-4981-a1c6-6e275158ac56" sid="93ac3f8c-a698-4981-a1c6-6e275158ac56"
                 name="FIP 20"/>
@@ -1746,10 +1746,10 @@
                   name="FIP 1"/>
               <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                   id="3ac42a7f-778b-4e18-b3b4-3d345e9fde9d" sid="3ac42a7f-778b-4e18-b3b4-3d345e9fde9d"
-                  name="FIP 1"/>
+                  name="FIP 2"/>
               <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                   id="00894f97-6948-47ff-acac-4015c0001676" sid="00894f97-6948-47ff-acac-4015c0001676"
-                  name="FIP 1"/>
+                  name="FIP 3"/>
               <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                   id="0111c000-6523-459d-a868-421524735de9" name="FOP 3"/>
               <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
@@ -1892,10 +1892,10 @@
                 name="FOP 4"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="81d482a8-8760-4622-b763-5b3aea39e4fb" sid="81d482a8-8760-4622-b763-5b3aea39e4fb"
-                name="FOP 1"/>
+                name="FOP 5"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="3fc86962-8b89-4ce8-9d93-2ca7968b262d" sid="3fc86962-8b89-4ce8-9d93-2ca7968b262d"
-                name="FOP 2"/>
+                name="FOP 6"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="bf89528d-88a0-40fa-8dc4-b83f07d99f84" name="FOP 8"/>
           </ownedFunctions>
@@ -3879,7 +3879,7 @@
                     sourceElement="#d858c8bc-2458-43e8-88be-dabaf8a51eac"/>
               </ownedFeatures>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:PhysicalPort"
-                  id="236843a3-94ed-4859-81e8-4305bd95fd93" name="PP 1">
+                  id="236843a3-94ed-4859-81e8-4305bd95fd93" name="PP 3">
                 <ownedComponentPortAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentPortAllocation"
                     id="05d16030-a370-4575-b3aa-64e85557e18a" targetElement="#896ec2fb-2b82-4714-bcdc-ccdac3c4bb29"
                     sourceElement="#236843a3-94ed-4859-81e8-4305bd95fd93"/>
@@ -4104,16 +4104,16 @@
               </ownedFeatures>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:PhysicalPort"
                   id="5505dff9-b352-4625-8ca5-b37decaadd25" sid="5505dff9-b352-4625-8ca5-b37decaadd25"
-                  name="PP 3"/>
+                  name="PP 8"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:PhysicalPort"
                   id="d899934c-b972-409a-9713-e3846a8b8d78" sid="d899934c-b972-409a-9713-e3846a8b8d78"
-                  name="PP 2"/>
+                  name="PP 6"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:PhysicalPort"
                   id="1a1b7ac2-34a8-48e0-b97f-a3512315bc09" sid="1a1b7ac2-34a8-48e0-b97f-a3512315bc09"
-                  name="PP 3"/>
+                  name="PP 9"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:PhysicalPort"
                   id="5b9cdf84-541a-4a95-be7e-b1b2714dc758" sid="5b9cdf84-541a-4a95-be7e-b1b2714dc758"
-                  name="PP 2"/>
+                  name="PP 7"/>
             </ownedPhysicalComponents>
             <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
                 id="e13c5a2b-7325-4fb5-94aa-ff1c152c0aec" sid="e13c5a2b-7325-4fb5-94aa-ff1c152c0aec"
@@ -5487,7 +5487,7 @@
                     sourceElement="#d180838d-81ad-4e2a-a8ed-0e828cec55ea"/>
               </ownedFeatures>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
-                  id="5c8a9612-b915-4088-b61a-3117d698931c" name="CP 1" orientation="IN"
+                  id="5c8a9612-b915-4088-b61a-3117d698931c" name="CP 9" orientation="IN"
                   kind="FLOW">
                 <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
                     id="9a4c37ea-cbbe-4c7e-80b8-8bd39de3b2ed" targetElement="#93ac3f8c-a698-4981-a1c6-6e275158ac56"
