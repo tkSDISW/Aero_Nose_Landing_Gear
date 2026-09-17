@@ -3215,7 +3215,8 @@
               sid="e1acfc99-c49f-4f2a-8688-38c5f4fe8d8a" name="NLG Doors Dump Valve"
               abstractType="#949ba149-cf34-416a-b44e-191bed1c685b"/>
           <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="40d3799b-932a-437e-aa46-9a6602e38fa9"
-              sid="40d3799b-932a-437e-aa46-9a6602e38fa9" name="NLG Door" abstractType="#1a963639-f7e9-4022-aa22-d8b0daf42b9d"/>
+              sid="40d3799b-932a-437e-aa46-9a6602e38fa9" name="NLG Door Actuator"
+              abstractType="#1a963639-f7e9-4022-aa22-d8b0daf42b9d"/>
           <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="964d5412-c1e7-43cd-8e48-9dc72148801b"
               sid="964d5412-c1e7-43cd-8e48-9dc72148801b" name="NLG Door Sensor" abstractType="#59dd9efb-87c4-486d-8401-ec3d402d2e43"/>
           <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="50c7b57a-d789-4f03-9a43-10cf58c245bd"
@@ -4413,7 +4414,7 @@
           </ownedPhysicalComponents>
           <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
               id="1a963639-f7e9-4022-aa22-d8b0daf42b9d" sid="1a963639-f7e9-4022-aa22-d8b0daf42b9d"
-              name="NLG Door" nature="BEHAVIOR">
+              name="NLG Door Actuator" nature="BEHAVIOR">
             <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
                 id="79098e3d-bd1e-477d-b876-39db966ee8f5" targetElement="#134988bc-c5f3-442c-8dba-fe5850eb5604"
                 sourceElement="#1a963639-f7e9-4022-aa22-d8b0daf42b9d"/>
