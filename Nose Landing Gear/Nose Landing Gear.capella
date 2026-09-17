@@ -4196,7 +4196,7 @@
                 itemId="006576" revisionId="A"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="dbc3f5d5-2f48-4593-af18-e7139be3d59a" name="H Fliud" target="#1ea8ea93-40a7-40a1-8df7-b78f33302f3c"
+              id="dbc3f5d5-2f48-4593-af18-e7139be3d59a" name="H Fluid" target="#1ea8ea93-40a7-40a1-8df7-b78f33302f3c"
               source="#c36e7676-182f-4141-a0ed-484abf23dfea">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="0676cb8c-9e9f-41cb-8b1a-7361f405c0fc"
                 tcuid="glJAQwBwZ3T1BC" stableTcId="wEBAQwBwZ3T1BC" occTcuid="rwBAQwBwZ3T1BC"
@@ -5748,21 +5748,21 @@
             </ownedComponentExchangeAllocations>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="da7523c5-bff4-4391-91ee-4a405df67805" name="PL 40" linkEnds="#9a51e918-62af-44e7-ac79-12b8fc4afe89 #0a36a350-9874-469a-bfa5-e5bdf520fbed">
+              id="da7523c5-bff4-4391-91ee-4a405df67805" name="H2 to H Reservoir" linkEnds="#9a51e918-62af-44e7-ac79-12b8fc4afe89 #0a36a350-9874-469a-bfa5-e5bdf520fbed">
             <ownedComponentExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeAllocation"
                 id="86852d74-ecb7-4b7e-b7a2-e86a00612181" targetElement="#3d2d91ab-6561-4b93-ac31-4cb688f46b8a"
                 sourceElement="#da7523c5-bff4-4391-91ee-4a405df67805"/>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="e9a13f8c-dc13-470a-abbb-c545e5ab8fd3" name="PL 41" linkEnds="#c788a90a-8edc-476b-ac20-5f76e803eb22 #e3703758-574c-490c-8caa-56fbbb471bd0">
+              id="e9a13f8c-dc13-470a-abbb-c545e5ab8fd3" name="H3 to H2" linkEnds="#c788a90a-8edc-476b-ac20-5f76e803eb22 #e3703758-574c-490c-8caa-56fbbb471bd0">
             <ownedComponentExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeAllocation"
                 id="e9e5ba0f-d611-4d9e-8d85-b46d044d7fb5" targetElement="#3da72adf-d20a-4740-a964-39f4bc413126"
                 sourceElement="#e9a13f8c-dc13-470a-abbb-c545e5ab8fd3"/>
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="4ef2f4af-a216-46f4-9225-d1e6a21cc536" name="PL 42" linkEnds="#9464613f-7dea-4c46-9415-ef057badb5a2 #4a63708f-897d-4d91-81cc-3f05d788021b"/>
+              id="4ef2f4af-a216-46f4-9225-d1e6a21cc536" name="H3 to Hydraulic" linkEnds="#9464613f-7dea-4c46-9415-ef057badb5a2 #4a63708f-897d-4d91-81cc-3f05d788021b"/>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-              id="f4fb3042-bbcb-4e55-95ae-e676e8dcb408" name="PL 43" linkEnds="#c0a084f4-ea01-4807-a99f-6670ebe386dd #159fa564-ac54-4f14-9540-7d4d70fd39bd">
+              id="f4fb3042-bbcb-4e55-95ae-e676e8dcb408" name="H Reservoir to H3" linkEnds="#c0a084f4-ea01-4807-a99f-6670ebe386dd #159fa564-ac54-4f14-9540-7d4d70fd39bd">
             <ownedComponentExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeAllocation"
                 id="fc044ca2-667f-4bee-915f-f1e4a3a7204c" targetElement="#c65b09b3-88ac-4f59-ba01-e2dfbd98092f"
                 sourceElement="#f4fb3042-bbcb-4e55-95ae-e676e8dcb408"/>
@@ -7785,29 +7785,32 @@
                 tcuid="BCFAQwBwZ3T1BC" stableTcId="x0FAQwBwZ3T1BC" itemId="006865"
                 revisionId="A"/>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                id="eab01e10-827a-421a-98fc-6aec6317df4f" name="C 1" source="#7a4dc58f-2b90-4dfb-bac0-51786a303937"
-                target="#74bafd25-8dc7-4a07-b2e5-1223dd300e0a" kind="FLOW">
+                id="eab01e10-827a-421a-98fc-6aec6317df4f" name="H3 to Pressured Hydraulic"
+                source="#7a4dc58f-2b90-4dfb-bac0-51786a303937" target="#74bafd25-8dc7-4a07-b2e5-1223dd300e0a"
+                kind="FLOW">
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="98e30f20-b162-4798-acfc-596156930709" targetElement="#41b60723-f7c9-414c-9e34-2b50804b839b"
                   sourceElement="#eab01e10-827a-421a-98fc-6aec6317df4f"/>
             </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                id="3da72adf-d20a-4740-a964-39f4bc413126" name="C 2" source="#31787eed-9108-42c7-a90c-2ca0fb604f00"
+                id="3da72adf-d20a-4740-a964-39f4bc413126" name="H3 to H2" source="#31787eed-9108-42c7-a90c-2ca0fb604f00"
                 target="#3ff1ee49-b928-48d5-a019-629514ca6527" kind="FLOW">
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="2dbfc754-01ba-492d-8c48-956c319afb53" targetElement="#6224d738-93ed-415c-967f-5e125cf75016"
                   sourceElement="#3da72adf-d20a-4740-a964-39f4bc413126"/>
             </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                id="c65b09b3-88ac-4f59-ba01-e2dfbd98092f" name="C 3" source="#44d25575-7afe-480e-8325-1856b217454a"
-                target="#f0ced1e4-72b5-4dfe-92a9-f9e7a4d669d3" kind="FLOW">
+                id="c65b09b3-88ac-4f59-ba01-e2dfbd98092f" name="H Reservoir to H3"
+                source="#44d25575-7afe-480e-8325-1856b217454a" target="#f0ced1e4-72b5-4dfe-92a9-f9e7a4d669d3"
+                kind="FLOW">
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="df5497d7-3b8a-4234-a801-38f4f692628b" targetElement="#dbc3f5d5-2f48-4593-af18-e7139be3d59a"
                   sourceElement="#c65b09b3-88ac-4f59-ba01-e2dfbd98092f"/>
             </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                id="f024d824-6d61-4ea2-bd4a-f756f0ca019e" name="C 4" source="#a9639c34-8ae4-4e38-90de-2868d8cbe8fc"
-                target="#0b95219e-2e4d-4f9c-ad5d-8646d2ff71f3" kind="FLOW">
+                id="f024d824-6d61-4ea2-bd4a-f756f0ca019e" name="Pressured Hydraulic to NLG Control Valve"
+                source="#a9639c34-8ae4-4e38-90de-2868d8cbe8fc" target="#0b95219e-2e4d-4f9c-ad5d-8646d2ff71f3"
+                kind="FLOW">
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="a0ab97c6-a223-456b-b327-bbfe18e28a74" targetElement="#59428dfe-81b6-4d97-8654-c1d4bfb73819"
                   sourceElement="#f024d824-6d61-4ea2-bd4a-f756f0ca019e"/>
@@ -8893,8 +8896,9 @@
                     tcuid="UDAAQwBwZ3T1BC" stableTcId="UDAAQwBwZ3T1BC"/>
               </ownedFunctionalAllocation>
               <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
-                  id="3d2d91ab-6561-4b93-ac31-4cb688f46b8a" name="C 1" source="#62755e62-0d9a-4a24-80a9-45043b3604bd"
-                  target="#685e2833-a5c5-4c3a-bcc8-fa024c4ce472" kind="FLOW">
+                  id="3d2d91ab-6561-4b93-ac31-4cb688f46b8a" name="H Reservoir to H2"
+                  source="#62755e62-0d9a-4a24-80a9-45043b3604bd" target="#685e2833-a5c5-4c3a-bcc8-fa024c4ce472"
+                  kind="FLOW">
                 <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                     id="8a21267e-5b48-48d1-af69-b3117a635973" targetElement="#6e4c5e21-12e9-4feb-814e-b7c8aa43f8ea"
                     sourceElement="#3d2d91ab-6561-4b93-ac31-4cb688f46b8a"/>
