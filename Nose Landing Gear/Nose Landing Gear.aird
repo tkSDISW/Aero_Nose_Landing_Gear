@@ -144,7 +144,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/physical.odesign#//@ownedViewpoints[name='Physical%20Architecture']/@ownedRepresentations[name='Physical%20Architecture%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponentPkg" href="Nose%20Landing%20Gear.capella#d70b51ab-c529-42d0-afa8-fc14a9357bbb"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_sexrILKyEfG8YdK2ilEeiA" name="Demo [PAB] Nose Wheel Landing Gear  FC Subset Requirements" repPath="#_seMcULKyEfG8YdK2ilEeiA" changeId="1789666575330">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_sexrILKyEfG8YdK2ilEeiA" name="Demo [PAB] Nose Wheel Landing Gear  FC Subset Requirements" repPath="#_seMcULKyEfG8YdK2ilEeiA" changeId="1789668573731">
         <eAnnotations xmi:type="description:DAnnotation" uid="_seLOMLKyEfG8YdK2ilEeiA" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sgoFQLKyEfG8YdK2ilEeiA" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sgoFQbKyEfG8YdK2ilEeiA" key="hide.computed.physical.links.filter" value="true"/>
@@ -68692,7 +68692,7 @@
         </ownedDiagramElements>
       </ownedDiagramElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_sejpLLKyEfG8YdK2ilEeiA" name="NLG Selector Valve">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_sejpLLKyEfG8YdK2ilEeiA" name="ion ">
       <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#99b977de-7dfe-47ab-9ebd-8a734d6b9d10"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Nose%20Landing%20Gear.capella#99b977de-7dfe-47ab-9ebd-8a734d6b9d10"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.pa:PhysicalComponent" href="Nose%20Landing%20Gear.capella#b036cde3-b432-45db-95d9-5d12be408a3b"/>

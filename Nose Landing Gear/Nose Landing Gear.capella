@@ -5473,8 +5473,7 @@
             </ownedDeploymentLinks>
           </ownedFeatures>
           <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="99b977de-7dfe-47ab-9ebd-8a734d6b9d10"
-              sid="99b977de-7dfe-47ab-9ebd-8a734d6b9d10" name="NLG Selector Valve"
-              abstractType="#b036cde3-b432-45db-95d9-5d12be408a3b">
+              sid="99b977de-7dfe-47ab-9ebd-8a734d6b9d10" name="ion " abstractType="#b036cde3-b432-45db-95d9-5d12be408a3b">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="82761431-ed09-4fb2-a284-2085db8ebd91"
                 tcuid="1GIAQwBwZ3T1BC" stableTcId="1GKAQwBwZ3T1BC"/>
             <ownedDeploymentLinks xsi:type="org.polarsys.capella.core.data.pa.deployment:PartDeploymentLink"
@@ -8041,7 +8040,7 @@
           </ownedPhysicalComponents>
           <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
               id="b036cde3-b432-45db-95d9-5d12be408a3b" sid="b036cde3-b432-45db-95d9-5d12be408a3b"
-              name="NLG Selector Valve" nature="NODE">
+              name="ion " nature="NODE">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="8336decf-640c-4b17-bbc0-04164468f519"
                 tcuid="xFFAQwBwZ3T1BC" stableTcId="h4FAQwBwZ3T1BC" itemId="006803"
                 revisionId="A"/>
