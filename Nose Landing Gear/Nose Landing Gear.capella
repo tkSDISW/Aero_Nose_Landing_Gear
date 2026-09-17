@@ -5645,7 +5645,7 @@
           </ownedPhysicalLinks>
           <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
               id="395e6810-cffb-4919-8008-92f30f357ad7" sid="395e6810-cffb-4919-8008-92f30f357ad7"
-              name="H" linkEnds="#a75c62d8-f09d-431c-bab2-c2ec06bef833 #9304e89e-9e88-446f-b821-971cf3a888a3">
+              name="NLG Door Selector Valve to NLG Doors Dump Valve" linkEnds="#a75c62d8-f09d-431c-bab2-c2ec06bef833 #9304e89e-9e88-446f-b821-971cf3a888a3">
             <ownedExtensions xsi:type="smw:TcItemRevision" id="53aaa2f4-272f-47ea-811d-9f516bd6112e"
                 tcuid="gFJAQwBwZ3T1BC" stableTcId="gkBAQwBwZ3T1BC" occTcuid="JRGAQwBwZ3T1BC"
                 itemId="006708" revisionId="A"/>
@@ -7114,7 +7114,8 @@
                   itemId="006747" revisionId="A"/>
             </ownedPhysicalLinks>
             <ownedPhysicalLinks xsi:type="org.polarsys.capella.core.data.cs:PhysicalLink"
-                id="36410711-a37e-446e-963f-95d50661455d" name="H_MLG DV to A" linkEnds="#27cc89d0-4384-4d87-ba0a-b0000a01965a #f662b882-b56a-4aba-9741-fb4e8073deaa">
+                id="36410711-a37e-446e-963f-95d50661455d" name="NLG Door Selector Valve to NLG Door Actuator"
+                linkEnds="#27cc89d0-4384-4d87-ba0a-b0000a01965a #f662b882-b56a-4aba-9741-fb4e8073deaa">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="a6af5629-3a27-47bd-b356-a137a5931125"
                   tcuid="g5PAQwBwZ3T1BC" stableTcId="wYHAQwBwZ3T1BC" occTcuid="JeOAQwBwZ3T1BC"
                   itemId="006741" revisionId="A"/>
@@ -7468,7 +7469,7 @@
             </ownedPhysicalComponents>
             <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
                 id="9bbe1b0a-b72b-4bd0-9822-416d2d598c15" sid="9bbe1b0a-b72b-4bd0-9822-416d2d598c15"
-                name="NLG Door Selector Valve" nature="NODE">
+                name="NLG Door Selector Valve" nature="NODE" description="Node component housing the NLG Doors Selector Valve behavior. Receives regulated hydraulic supply and routes it, per commanded door state, to the NLG door actuator and the dump valve.">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="853f69d0-94eb-4337-b3c6-e403757e8ad2"
                   tcuid="xVBAQwBwZ3T1BC" stableTcId="xIBAQwBwZ3T1BC" itemId="006817"
                   revisionId="A"/>
@@ -9089,7 +9090,7 @@
             </ownedPhysicalComponents>
             <ownedPhysicalComponents xsi:type="org.polarsys.capella.core.data.pa:PhysicalComponent"
                 id="cd9036d8-23db-48f9-825b-3861748237a5" sid="cd9036d8-23db-48f9-825b-3861748237a5"
-                name="NLG Doors Selector Valve" nature="BEHAVIOR">
+                name="NLG Doors Selector Valve" nature="BEHAVIOR" description="Realizes the Control Pressure function: takes hydraulic supply and an NLG Door command as inputs, and outputs regulated pressure to the door actuator (via H-MLG Door DV) and the dump valve (via Dump Valve to Selector Valve Pressure).">
               <ownedExtensions xsi:type="smw:TcItemRevision" id="84b5b250-cfe5-4e10-957f-467d2ab07d1a"
                   tcuid="xNPAQwBwZ3T1BC" stableTcId="xAPAQwBwZ3T1BC" itemId="006813"
                   revisionId="A"/>
